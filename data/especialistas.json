@@ -1,0 +1,16 @@
+{
+    "dataEspecialistas": {
+        "pediatria": {
+            "identificacion": "pediatria",
+            "codespecia": "123",
+            "nombreesp": "123",
+            "correoim": "123",
+            "numconsul": "123",
+            "horacon": "123",
+            "fronada": {
+                "m\u00f1": {},
+                "td": {}
+            }
+        }
+    }
+}
