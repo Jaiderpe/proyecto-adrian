@@ -1,10 +1,10 @@
-# FILTRO FINAL TIENDA DE ROPAS 
+# CLINACA REGISTRO DE CONSUlTA
 
-_Es una tienda virtual que cumple con  las caracteristcas principal para la compra de ropa esclusiva para uso personal_
+_Se encarga de llevar cada consulta area de organicacion en la sala de espera_
 
 ## Dando inicio  🚀
 
-_Estas instrucciones para un diseño acoplado para el uso del sitio web _
+_una estructuracion para el area de organizacion por pasiente_
 
 
 ## Ejecutando las pruebas ⚙️
@@ -14,7 +14,7 @@ _En base de evaluación y registro de pruebas final para verificación del uso d
 
 ### Y las pruebas de estilo de codificación ⌨️
 
-_Con diseño response._
+_Con implementacion a usuario de consulta._
 
 ```
 Da un ejemplo
@@ -25,13 +25,12 @@ Da un ejemplo
 _Menciona las herramientas que utilizaste para crear tu proyecto_
  
  * visual code
- * css
- * html
+ * python
 
 
 ## Contribuyendo 🖇️
 
-compañero de clase Érick aria 
+Trainer jholver 
 
 
 ## Autores ✒️
@@ -39,5 +38,4 @@ compañero de clase Érick aria
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Jaider adrián Pérez vega ** 
-* **Érick arias ** 
 
